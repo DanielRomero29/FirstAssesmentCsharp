@@ -16,8 +16,9 @@
 
 4. **Ejecutar comando ``dotnet run`` que ejecutará el archivo principal Program.cs**
 
-5. **Seleccionar las distintas opciones del menú creado**
+5. **Escribir una opción de las 3 dadas en el enunciado para poder utilizar el programa**
 
 ## ¿Qué contiene este repositorio?
 
-Este repositorio contiene un menú con 3 opciones. Además, una carpeta clases que contiene la clase base y las clases que heredan de ella separadas cada una en un archivo diferente.
+Este repositorio consta de un enunciado donde hay que escribir una de las opciones que te da para poder utilizar el programa. 
+Además, una carpeta clases que contiene la clase base y las clases que heredan de ella separadas cada una en un archivo diferente.
